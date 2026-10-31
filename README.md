@@ -12,9 +12,9 @@
 &nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen-hectorolisan-000000?style=for-the-badge "Ir a Codepen")](https://codepen.io/hectorolisan/)
 
-[![Portfolio](https://img.shields.io/badge/Instagram-hectorolisan.dev-000000?style=for-the-badge "Ir al Instagram")](https://instagram.com/hectorolisan.dev/)
+[![Portfolio](https://img.shields.io/badge/hectorolisan.dev-333b4b?style=for-the-badge&logo=instagram "Ir al Instagram")](https://instagram.com/hectorolisan.dev/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hectorolisan.dev-000000?style=for-the-badge "Ir a TikTok")](https://tiktok.com/@hectorolisan.dev/)
+[![LinkedIn](https://img.shields.io/badge/hectorolisan.dev-333b4b?style=for-the-badge&logo=tiktok "Ir a TikTok")](https://tiktok.com/@hectorolisan.dev/)
 &nbsp;
 
 [![hectorolisan](https://github-stats-extended.vercel.app/api?username=hectorolisan&hide_title=true&ring_color=333B4B&show_icons=true&icon_color=333B4B&text_color=FFFFFF&bg_color=0D1117&card_width=500)]()
