@@ -2,10 +2,6 @@
 
 [![snake](./src/assets/snake.svg)]()
 
-## Héctor Olivares Sánchez
-
-**Full Stack Developer | Web Development · Cross-Platform Applications | AI · Big Data**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-hectorolisan.dev-000000?style=for-the-badge "Ir al Portfolio")](https://hectorolisan.dev/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hectorolisan-000000?style=for-the-badge "Ir a LinkedIn")](https://linkedin.com/in/hectorolisan/)
